@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  ![@Abdiel-code](https://github.com/user-attachments/assets/bf5daac3-2eb1-4ebc-a2bf-62968dff453a)
+  <img src='https://github.com/user-attachments/assets/f1c8f472-5ca4-49b9-a505-8694c1edd26a'>
 </div>
 <!--
 **abdiel-code/abdiel-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
