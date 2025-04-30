@@ -1,46 +1,57 @@
-<div align='center'>
-  <h1>Hello! My name is Abdiel</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f1c8f472-5ca4-49b9-a505-8694c1edd26a" alt="Banner" width="100%">
+  
+  <h1>🚀 Abdiel Flores | Full-Stack Developer</h1>
+  <p><i>"Building scalable solutions with clean code and passion"</i></p>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdiel-code&show_icons=true&theme=radical&hide_border=true)
 </div>
 
-<div align='center'>
-  <img src='https://github.com/user-attachments/assets/f1c8f472-5ca4-49b9-a505-8694c1edd26a' alt='Banner Image'>
+---
+
+### 🔥 **Tech Stack**  
+| **Frontend**       | **Backend**        | **Databases**     | **Tools**         |
+|--------------------|--------------------|-------------------|-------------------|
+| React              | Node.js/Express    | MySQL/PostgreSQL  | Git/GitHub        |
+| HTML5/CSS3/SASS    | Django             | MongoDB           | Docker (Basic)    |
+| JavaScript (ES6+)  | ASP.NET Core       | Firebase          | Figma/Canva       |
+
+---
+
+### 🛠 **Featured Projects**  
+▶ **[DevLaunch Landing](https://github.com/...)**  
+`React` `Node.js` `MongoDB` - Plantilla profesional para startups.  
+
+▶ **[E-Commerce API](https://github.com/...)**  
+`Django` `PostgreSQL` - API REST con autenticación JWT.  
+
+*(¡Pincha estos repositorios en tu perfil!)*  
+
+---
+
+### 📌 **Currently**  
+- 🌱 Learning **AWS Cloud** and **GraphQL**.  
+- 👨💻 Building a **Freelance Portfolio Platform**.  
+- 🤝 Open to **collaborations** and **freelance projects**.  
+
+---
+
+### 📬 **Let's Connect**  
+<div align="center">
+  <a href="mailto:abdieljflores.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </div>
 
-<div align='center'>
-  <h2>About Me</h2>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdiel-code&label=Profile%20Views&color=blueviolet&style=flat" alt="Visitas">
+  <p>⚡ <i>Fun Fact: I can debug CSS while eating tacos 🌮</i></p>
 </div>
-
-<div>
-  <p>I'm a Full-Stack developer and a Software Engineering student. My strong areas are:</p>
-  <ul>
-    <li>JavaScript (React, Node.js)</li>            
-    <li>HTML & CSS (Responsive Design, Flexbox, Grid)</li>
-    <li>Python (Django)</li>
-    <li>C# (ASP.NET)</li>
-    <li>SQL (MySQL, PostgreSQL)</li>
-  </ul>
-  <p>I'm specialized in web app development.</p>
-</div>
-
-<div align='center'>
-  <h2>Social and Contact</h2>
-</div>
-
-<div align='center'>
-  <p>📧 Email: <a href="mailto:abdieljflores.dev@gmail.com">abdieljflores.dev@gmail.com</a></p>
-</div>
-
-<!--
-**abdiel-code/abdiel-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
