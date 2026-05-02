@@ -1,42 +1,61 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f1c8f472-5ca4-49b9-a505-8694c1edd26a" alt="Banner" width="100%">
-  
-  <h1>🚀 Abdiel Flores | Full-Stack Developer</h1>
-  <p><i>"Building scalable solutions with clean code and passion"</i></p>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdiel-code&show_icons=true&theme=radical&hide_border=true)
+
+# Abdiel Flores  
+Full-Stack Developer focused on real-time applications
+
 </div>
 
 ---
 
-### 🔥 **Tech Stack**  
-| **Frontend**       | **Backend**        | **Databases**     | **Tools**         |
-|--------------------|--------------------|-------------------|-------------------|
-| React              | Node.js/Express    | MySQL/PostgreSQL  | Git/GitHub        |
-| HTML5/CSS3/SASS    | Django             | MongoDB           | Penpot            |
-| JavaScript (ES6+)  | ASP.NET Core       | Firebase          | Figma/Canva       |
+## 👋 About
 
+I build full-stack applications with a strong focus on real-time systems.
+
+Most of my work revolves around combining modern frontend frameworks with performant backends, especially when low-latency communication and live updates are involved.
 
 ---
 
-### 📌 **Currently**  
-- 🤝 Open to **collaborations** and **freelance projects**.  
+## ⚙️ Stack
+
+**Frontend**
+- React / Next.js
+- Tailwind CSS
+- Framer Motion
+
+**Backend**
+- Node.js (Express)
+- Rust (Axum)
+
+**Database**
+- PostgreSQL
+- MongoDB
+
+**Real-time**
+- WebSockets
+- Socket.io
+
+**Other**
+- Docker
+- Cloudflare / Vercel
+- JWT-based auth
 
 ---
 
-### 📬 **Let's Connect**  
-<div align="center">
-  <a href="mailto:abdieljflores.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/abdiel-jeft%C3%A9-flores-gutierrez-468208325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+## 🚀 Selected Work
+
+**CRM Cluster**  
+Real-time CRM with per-user data isolation and live updates via WebSockets.
+
+**Ministerios Libertad**  
+Production platform with real-time content streaming across devices and role-based access.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdiel-code&label=Profile%20Views&color=blueviolet&style=flat" alt="Visitas">
-  <p>⚡ <i>Fun Fact: I can debug CSS while eating tacos 🌮</i></p>
-</div>
+## 📬 Contact
+
+- Email: abdieljflores.dev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/abdiel-jeft%C3%A9-flores-gutierrez-468208325/
+
+---
+
+> I enjoy building systems that stay fast and responsive under real-world usage.
