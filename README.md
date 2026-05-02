@@ -1,8 +1,6 @@
 <div align="center">
-
-# Abdiel Flores  
-Full-Stack Developer focused on real-time applications
-
+  <h1>Abdiel Flores</h1>
+  <p>Full-Stack Developer · Real-time systems</p>
 </div>
 
 ---
@@ -58,4 +56,4 @@ Production platform with real-time content streaming across devices and role-bas
 
 ---
 
-> I enjoy building systems that stay fast and responsive under real-world usage.
+> I like building things that feel fast, not just look good.
